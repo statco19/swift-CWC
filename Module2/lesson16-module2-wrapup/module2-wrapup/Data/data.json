@@ -1,0 +1,72 @@
+[
+{
+    "quote":"Success is most often achieved by those who don’t know that failure is inevitable.",
+    "image":"ambition",
+    "by":"Coco Chanel",
+    "details":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Morbi ut vestibulum urna. Cras eleifend placerat ante.",
+        "Nullam bibendum pharetra nisl, in lacinia nibh rutrum ut.",
+        "Aliquam venenatis erat non commodo lobortis.",
+        "In fringilla pellentesque libero mollis consequat.",
+        "Nam tortor arcu, viverra ut tellus non, suscipit tempor eros.",
+        "Curabitur consectetur arcu quis eros viverra aliquam a vitae erat.",
+        "Donec sed turpis orci. Quisque interdum sed sapien suscipit aliquam.",
+        "Morbi suscipit fermentum turpis at rhoncus. Aliquam vitae tincidunt est."]
+},
+{
+    "quote":"I refuse to accept other people’s ideas of happiness for me. As if there’s a one size fits all standard for happiness.",
+    "image":"calm",
+    "by":"Kanye West",
+    "details":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Morbi ut vestibulum urna. Cras eleifend placerat ante.",
+        "Nullam bibendum pharetra nisl, in lacinia nibh rutrum ut.",
+        "Aliquam venenatis erat non commodo lobortis.",
+        "In fringilla pellentesque libero mollis consequat.",
+        "Nam tortor arcu, viverra ut tellus non, suscipit tempor eros.",
+        "Curabitur consectetur arcu quis eros viverra aliquam a vitae erat.",
+        "Donec sed turpis orci. Quisque interdum sed sapien suscipit aliquam.",
+        "Morbi suscipit fermentum turpis at rhoncus. Aliquam vitae tincidunt est."]
+},
+{
+    "quote":"If you do what you’ve always done, you’ll get what you’ve always gotten.",
+    "image":"focus",
+    "by":"Tony Robbins",
+    "details":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Morbi ut vestibulum urna. Cras eleifend placerat ante.",
+        "Nullam bibendum pharetra nisl, in lacinia nibh rutrum ut.",
+        "Aliquam venenatis erat non commodo lobortis.",
+        "In fringilla pellentesque libero mollis consequat.",
+        "Nam tortor arcu, viverra ut tellus non, suscipit tempor eros.",
+        "Curabitur consectetur arcu quis eros viverra aliquam a vitae erat.",
+        "Donec sed turpis orci. Quisque interdum sed sapien suscipit aliquam.",
+        "Morbi suscipit fermentum turpis at rhoncus. Aliquam vitae tincidunt est."]
+},
+{
+    "quote":"There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+    "image":"reflect",
+    "by":"Aristotle",
+    "details":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Morbi ut vestibulum urna. Cras eleifend placerat ante.",
+        "Nullam bibendum pharetra nisl, in lacinia nibh rutrum ut.",
+        "Aliquam venenatis erat non commodo lobortis.",
+        "In fringilla pellentesque libero mollis consequat.",
+        "Nam tortor arcu, viverra ut tellus non, suscipit tempor eros.",
+        "Curabitur consectetur arcu quis eros viverra aliquam a vitae erat.",
+        "Donec sed turpis orci. Quisque interdum sed sapien suscipit aliquam.",
+        "Morbi suscipit fermentum turpis at rhoncus. Aliquam vitae tincidunt est."]
+},
+{
+    "quote":"When I let go of what I am, I become what I might be.",
+    "image":"reflect2",
+    "by":"Lao Tzu",
+    "details":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Morbi ut vestibulum urna. Cras eleifend placerat ante.",
+        "Nullam bibendum pharetra nisl, in lacinia nibh rutrum ut.",
+        "Aliquam venenatis erat non commodo lobortis.",
+        "In fringilla pellentesque libero mollis consequat.",
+        "Nam tortor arcu, viverra ut tellus non, suscipit tempor eros.",
+        "Curabitur consectetur arcu quis eros viverra aliquam a vitae erat.",
+        "Donec sed turpis orci. Quisque interdum sed sapien suscipit aliquam.",
+        "Morbi suscipit fermentum turpis at rhoncus. Aliquam vitae tincidunt est."]
+}
+]
