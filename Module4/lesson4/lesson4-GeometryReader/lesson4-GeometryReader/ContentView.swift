@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  lesson4
+//  lesson4-GeometryReader
 //
 //  Created by Changjun Oh on 2022/11/14.
 //
